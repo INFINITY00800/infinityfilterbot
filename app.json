@@ -8,9 +8,9 @@
         "Telegram Bot",
         "TroJanzHEX"
     ],
-    "website": "https://TroJanzHEX.me",
+    "website": "https://infinity.me",
     "repository": "https://github.com/INFINITY00800/infinityfilterbot",
-    "success_url": "https://telegram.dog/TroJanzHEX",
+    "success_url": "https://t.me/+tcBv9ZnQaG82NmE1",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
